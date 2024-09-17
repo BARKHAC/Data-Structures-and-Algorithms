@@ -14,7 +14,7 @@
 #                    print(myAns)
 #                    return myAns
 
-#Brute Force O(n^2)
+#Brute Force using arrays and two for loops O(n^2)
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:      #HashMap O(n)
